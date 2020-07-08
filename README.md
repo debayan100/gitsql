@@ -1,5 +1,5 @@
 # Connecting to Cloud SQL - MySQL
-
+This is the read me change
 ## Before you begin
 
 1. If you haven't already, set up a Python Development Environment by following the [python setup guide](https://cloud.google.com/python/setup) and 
